@@ -1,0 +1,8 @@
+- Building Product Security beyond tool adoption
+- AppSec that engineering teams can actually live with
+- Cloud and platform security in real delivery environments
+- Secure SDLC fundamentals for modern organizations
+- From practitioner to educator: bringing industry into the classroom
+- Career readiness for cybersecurity students and junior engineers
+- DevSecOps lessons from regulated and cloud-native environments
+- How to teach cybersecurity through fundamentals and reality
